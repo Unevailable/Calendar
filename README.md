@@ -25,7 +25,7 @@ https://day.js.org
 
 ## Website
 https://unevailable.github.io/Calendar/
-![Preview of the Website](cal.PNG)
+![Preview of the Website](/Assets/images/cal.PNG)
 
 ## License
 
